@@ -1,4 +1,4 @@
-# wetrakr-api
+# WeTrakr API SKill
 
 Agent skill for the [WeTrakr](https://wetrakr.com) public REST API at `https://api.wetrakr.com`.
 
